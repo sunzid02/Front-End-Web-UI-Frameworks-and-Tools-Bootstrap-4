@@ -1,28 +1,16 @@
 {
-  "name": "front-end-web-ui-frameworks-and-tools-bootstrap-4",
+  "name": "confusion",
   "version": "1.0.0",
-  "description": "learn node and git",
+  "description": "This is a website for Ristorante Con Fusion",
   "main": "index.html",
   "scripts": {
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sunzid02/Front-End-Web-UI-Frameworks-and-Tools-Bootstrap-4.git"
-  },
-  "keywords": [
-    "node",
-    "git"
-  ],
-  "author": "Sarker Sunzid Mahmud",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sunzid02/Front-End-Web-UI-Frameworks-and-Tools-Bootstrap-4/issues"
-  },
-  "homepage": "https://github.com/sunzid02/Front-End-Web-UI-Frameworks-and-Tools-Bootstrap-4#readme",
   "devDependencies": {
-    "lite-server": "^2.5.4"
+    "lite-server": "^2.3.0"
   }
 }
